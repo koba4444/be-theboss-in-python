@@ -1,6 +1,6 @@
 # Be The Boss in Python 
 
-[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fafizs%2Fbe-theboss-in-python)
+[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fkoba4444%2Fbe-theboss-in-python)
 
 ✅ This repository contains all the programs of my Python Tutorials, which I shared on Twitter. 
 
